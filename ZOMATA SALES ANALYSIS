@@ -1,0 +1,20 @@
+Zomato Sales Analysis Report
+🔍 Overview
+This project analyzes Zomato’s restaurant sales data across multiple dimensions to uncover key trends and provide actionable recommendations.
+The dataset includes orders, city-level activity, cuisine preferences, and restaurant performance, with the objective of driving strategic improvements in revenue, customer engagement, and regional operations.
+
+❓ Key Business Questions
+Which restaurants generate high order volume but low revenue?
+
+What cities bring in the most revenue and sales?
+
+What are the top-selling cuisines and restaurants?
+
+How do sales and revenue trend over time?
+
+🧠 Hypotheses
+High order volume does not always translate to high revenue due to local pricing and discounting.
+
+Specific cuisines might attract more high-value orders.
+
+Seasonal events or campaigns may drive spikes in revenue.
