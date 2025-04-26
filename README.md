@@ -1,29 +1,45 @@
-About Me
-Hi there! I'm Layanakrim, a passionate business analyst with a keen interest in open-source projects and innovative technologies. I love exploring new tools and methodologies to solve real-world problems.
+Hi there! I'm Layan Akrim, a passionate Business Analyst with a keen interest in open-source projects and innovative technologies. I love exploring new tools and methodologies to solve real-world business challenges and turn data into actionable insights.
 
 🔭 Current Work
-Working on several open-source projects.
-Analyzing business processes and improving efficiency.
-Contributing to community-driven projects.
+
+Working on open-source data analysis and business intelligence projects.
+
+Analyzing business processes to drive operational efficiency.
+
+Contributing to community-driven and collaborative tech initiatives.
+
 🌱 Learning Goals
-Enhancing my skills in data analysis and visualization.
-Diving deeper into machine learning and AI.
-Exploring blockchain technology and its applications.
+
+Advancing my skills in data analysis, SQL, Tableau, and Power BI.
+
+Exploring machine learning and AI applications for business.
+
+Gaining a deeper understanding of blockchain technology and its business uses.
+
 💬 Ask Me About
-Business analysis and project management.
-Data analysis and visualization.
-Best practices in business process improvement.
+
+Business analysis and project management best practices.
+
+Data storytelling and dashboard development.
+
+Process improvement and operational efficiency strategies.
+
 📫 How to Reach Me
+
 Email: layan.akrim10@gmail.com
-LinkedIn: Layanakrim
+
+LinkedIn: Layan Akrim
+
 ⚡ Fun Facts
-I love hiking and exploring nature.
-I'm a big fan of sci-fi movies and books.
-I enjoy solving puzzles and playing strategy games.
+
+I love swimming and spending time by the water.
+
+I'm an avid reader, always looking for the next great book.
+
+I enjoy exploring new places and learning about different cultures.
+
 🌐 Languages
+
 English
+
 Arabic
-<!---
-Layanakrim/Layanakrim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
